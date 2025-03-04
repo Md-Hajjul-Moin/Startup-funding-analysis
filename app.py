@@ -5,7 +5,6 @@ import re
 import plotly.express as px
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-from streamlit import columns
 
 st.set_page_config(layout="wide",page_title="Startup Analysis")
 
