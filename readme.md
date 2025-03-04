@@ -1,0 +1,1 @@
+You can get detailed analysis about any startup or investor in this project
